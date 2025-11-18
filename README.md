@@ -1,16 +1,55 @@
-## Hi there 👋
+# ¡Hola! Soy Dani Casado.
 
-<!--
-**Daicaluc/Daicaluc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desarrollador Web Frontend | Desarrollador de Videojuegos | Modelado 3D
 
-Here are some ideas to get you started:
+¡Bienvenido a mi portafolio de código! Me especializo en el puente entre el **diseño** y la **programación**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente estoy enfocado en crear interfaces inmersivas que combinan tecnologías web estándar con elementos 3D.
+
+---
+
+## Mi Stack Tecnológico
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-3D-orange?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shapr3D-1D7BFD?style=for-the-badge&logo=codepen&logoColor=white" />
+</p>
+
+---
+
+## Estadísticas de GitHub
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=daicaluc&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" 
+  />
+</p>
+
+---
+
+## Proyectos Destacados
+
+Aquí puedes ver mis últimos trabajos, donde combino lógica de programación con estética visual.
+
+| **E-commerce de Lujo & 3D** | **Tributo Art Nouveau & Gaudí** |
+| :---: | :---: |
+| <img src="https://github.com/Daicaluc/Veluxe/blob/3046b2eb3672c76aef9f667ac3d06ebf13a69acb/FotosMuestra/VeluxeLogo.png" width="250"> | <img src="https://github.com/Daicaluc/ArtNouveau/blob/daa2ddb928d08e187ed50ee04dacfb7b52f08d45/images/emoji-sagrada-familia.png" width="190"> |
+| **Tech:** HTML, SASS, JS, Modelado 3D | **Tech:** HTML, CSS, JS (DOM Events) |
+| Experiencia de compra premium con activos 3D propios. | Web tributo con lógica de cursores interactiva. |
+| [Acceso a la página](https://daicaluc.github.io/Veluxe/) | [Acceso a la página](https://daicaluc.github.io/ArtNouveau/) |
+| [Ver Código](https://github.com/Daicaluc/Veluxe) | [Ver Código](https://github.com/Daicaluc/ArtNouveau) |
+
+---
+
+## Conectemos
+
+Estoy buscando oportunidades como **Junior Frontend Developer**. Si buscas a alguien que cuide tanto el código como el píxel:
+
+* [LinkedIn](linkedin.com/in/danicasadomanza)
+* [Email](mailto:danicasadomanza@gmail.com)
