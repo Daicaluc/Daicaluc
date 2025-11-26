@@ -41,8 +41,8 @@ Aquí puedes ver mis últimos trabajos, donde combino lógica de programación c
 | <img src="https://github.com/Daicaluc/StarshipLanding_Beta/blob/910e15353ddecbd4bcc3fa7b823b905df8148a14/FotosMuestra/Foto2.png" width="300"> | <img src="https://github.com/Daicaluc/Veluxe/blob/3046b2eb3672c76aef9f667ac3d06ebf13a69acb/FotosMuestra/VeluxeLogo.png" width="250"> |
 | **Tech:** Unity (C#), WebGL, HTML, CSS | **Tech:** HTML, SASS, JS, Modelado 3D |
 | Experiencia inmersiva de aterrizaje en un planeta alienígena. | Experiencia de compra premium con activos 3D propios. |
-| [Acceso al repositorio](https://github.com/Daicaluc/StarshipLanding_Beta) | [Acceso a la página](https://daicaluc.github.io/Veluxe/) |
-| [Jugar Beta](https://daicaluc.github.io/StarshipLanding_Beta/) | [Ver Código](https://github.com/Daicaluc/Veluxe) |
+| [Acceso al repositorio](https://github.com/Daicaluc/StarshipLanding_Beta) | [Acceso al repositorio](https://github.com/Daicaluc/Veluxe) |
+| [Juega a la Beta](https://daicaluc.github.io/StarshipLanding_Beta/) | [Accede a la página](https://daicaluc.github.io/Veluxe/) |
 
 ---
 
