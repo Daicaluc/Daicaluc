@@ -10,15 +10,16 @@ Actualmente estoy enfocado en crear interfaces inmersivas que combinan tecnolog�
 
 ## Mi Stack Tecnológico
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-3D-orange?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <br>
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-3D-orange?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/Shapr3D-1D7BFD?style=for-the-badge&logo=codepen&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
@@ -35,13 +36,13 @@ Actualmente estoy enfocado en crear interfaces inmersivas que combinan tecnolog�
 
 Aquí puedes ver mis últimos trabajos, donde combino lógica de programación con estética visual.
 
-| **E-commerce de Lujo & 3D** | **Tributo Art Nouveau & Gaudí** |
+| **Starship Landing [BETA]** | **E-commerce de Lujo & 3D** |
 | :---: | :---: |
-| <img src="https://github.com/Daicaluc/Veluxe/blob/3046b2eb3672c76aef9f667ac3d06ebf13a69acb/FotosMuestra/VeluxeLogo.png" width="250"> | <img src="https://github.com/Daicaluc/ArtNouveau/blob/daa2ddb928d08e187ed50ee04dacfb7b52f08d45/images/emoji-sagrada-familia.png" width="190"> |
-| **Tech:** HTML, SASS, JS, Modelado 3D | **Tech:** HTML, CSS, JS (DOM Events) |
-| Experiencia de compra premium con activos 3D propios. | Web tributo con lógica de cursores interactiva. |
-| [Acceso a la página](https://daicaluc.github.io/Veluxe/) | [Acceso a la página](https://daicaluc.github.io/ArtNouveau/) |
-| [Ver Código](https://github.com/Daicaluc/Veluxe) | [Ver Código](https://github.com/Daicaluc/ArtNouveau) |
+| <img src="https://github.com/Daicaluc/StarshipLanding_Beta/blob/910e15353ddecbd4bcc3fa7b823b905df8148a14/FotosMuestra/Foto2.png" width="300"> | <img src="https://github.com/Daicaluc/Veluxe/blob/3046b2eb3672c76aef9f667ac3d06ebf13a69acb/FotosMuestra/VeluxeLogo.png" width="250"> |
+| **Tech:** Unity (C#), WebGL, HTML, CSS | **Tech:** HTML, SASS, JS, Modelado 3D |
+| Experiencia inmersiva de aterrizaje en un planeta alienígena. | Experiencia de compra premium con activos 3D propios. |
+| [Acceso al repositorio](https://github.com/Daicaluc/StarshipLanding_Beta) | [Acceso a la página](https://daicaluc.github.io/Veluxe/) |
+| [Jugar Beta](https://daicaluc.github.io/StarshipLanding_Beta/) | [Ver Código](https://github.com/Daicaluc/Veluxe) |
 
 ---
 
