@@ -27,8 +27,10 @@ Actualmente estoy enfocado en crear interfaces inmersivas que combinan tecnolog√
 ## Estad√≠sticas de GitHub
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://api.github-readme-stats.com/api/top-langs/%3Fusername%3Ddaicaluc%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26langs_count%3D11" alt="Top Languages" />
+  <img src="https://www.google.com/url?sa=E&source=gmail&q=https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daicaluc%26theme=radical" alt="Top Languages"/>
 </p>
+
+
 
 ---
 
